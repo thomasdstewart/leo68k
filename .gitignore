@@ -1,3 +1,7 @@
 *~
 fp-info-cache
 leo68k-backups
+
+.venv
+.pio
+.platformio
