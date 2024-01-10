@@ -1,0 +1,82 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 33088729-b62e-4c27-bd07-0e3dd7f7f61e)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 76.2 25.4) (size 38.1 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 28555543-60f0-43f7-ad58-10d6bf6ec335)
+    (property "Sheetname" "Loader" (at 76.2 23.8234 0)
+      (effects (font (size 3 3)) (justify left bottom))
+    )
+    (property "Sheetfile" "loader.kicad_sch" (at 76.2 62.8146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "leo68k"
+        (path "/33088729-b62e-4c27-bd07-0e3dd7f7f61e" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 127 25.4) (size 38.1 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3006600d-00f4-40e6-8ad2-f73d8e177026)
+    (property "Sheetname" "CPU" (at 127 23.8234 0)
+      (effects (font (size 3 3)) (justify left bottom))
+    )
+    (property "Sheetfile" "cpu.kicad_sch" (at 127 62.8146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "leo68k"
+        (path "/33088729-b62e-4c27-bd07-0e3dd7f7f61e" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 25.4) (size 38.1 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3f60a7ce-0238-4481-8009-2dff3c5599e1)
+    (property "Sheetname" "Power" (at 25.4 23.8234 0)
+      (effects (font (size 3 3)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 25.4 62.8146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "leo68k"
+        (path "/33088729-b62e-4c27-bd07-0e3dd7f7f61e" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 25.4) (size 38.1 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ff172784-cb02-4bc2-9475-c4857d76236b)
+    (property "Sheetname" "RAM" (at 177.8 23.8234 0)
+      (effects (font (size 3 3)) (justify left bottom))
+    )
+    (property "Sheetfile" "ram.kicad_sch" (at 177.8 62.8146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "leo68k"
+        (path "/33088729-b62e-4c27-bd07-0e3dd7f7f61e" (page "5"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
