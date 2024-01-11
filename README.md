@@ -15,3 +15,7 @@ https://github.com/INTI-CMNB/kicad-ci-test-spora
 https://github.com/thomasdstewart/leo68k/actions
 
 
+https://jlcpcb.com/parts/2nd/Memory/NOR_FLASH_79456
+https://www.instructables.com/How-to-Design-with-Discrete-SPI-Flash-Memory/
+https://github.com/PaulStoffregen/SerialFlash
+

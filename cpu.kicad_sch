@@ -513,7 +513,7 @@
     (uuid fde52555-24c1-48e1-86b0-306a1b425ed9)
   )
 
-  (text "A20 is RAM CE\nA21 is Pseudo ROM\nA22 is Pseudo IO" (at 209.55 82.55 0)
+  (text "A20 is RAM CE\nA21 is Pseudo ROM\nA22 is Pseudo IO" (at 212.09 82.55 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1e1b4815-c05f-42ca-a0f5-195a272ef630)
   )

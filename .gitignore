@@ -1,5 +1,7 @@
-*~
+\#auto_saved_files#
+~*.kicad_sch.lck
 fp-info-cache
+*.kicad_sch-bak
 leo68k-backups
 
 .venv

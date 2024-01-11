@@ -31,11 +31,14 @@
  *   reset 68k, raise and lower reset line
  *   load data from loader condole to mega storage
  *   load data to ram from mega storage
+ *   set bytes of ram
+ *   dump bytes of ram
  *   start 68k, halt, load ram, reset, unhalt
  *
  */
 
 #include <Arduino.h>
+#include <SerialFlash.h>
 
 void setup() {
     Serial.begin(115200); 
