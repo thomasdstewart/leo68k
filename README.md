@@ -19,3 +19,10 @@ https://jlcpcb.com/parts/2nd/Memory/NOR_FLASH_79456
 https://www.instructables.com/How-to-Design-with-Discrete-SPI-Flash-Memory/
 https://github.com/PaulStoffregen/SerialFlash
 
+https://reinvantveer.github.io/2021/05/10/m68k-retro-computing-project.html
+
+https://jabberwocky.ca/posts/2021-09-bootstrapping_with_arduino.html
+
+https://github.com/transistorfet/computie?tab=readme-ov-file
+
+
